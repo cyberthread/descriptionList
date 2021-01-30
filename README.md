@@ -12,7 +12,7 @@ Introduce us to something new. Pick a hobby, sport, game, or other subject you h
 - [ ] Passes WAVE and AXE accessibility checkers
 - [ ] Coded mobile-first with fluid layouts
 - [ ] User can zoom in to 200% at any screen size without horizontal scroll.
-- [ ] Site is live
+- [ ] Site is live (in docs folder in GitHub Repository)
 
 ### Process 
 - [ ] Document process in a Miro Whiteboard
