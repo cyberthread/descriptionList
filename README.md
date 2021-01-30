@@ -31,7 +31,12 @@ This will be evaluated primarily on typography and composition.
 ## Evaluation
 Each requirement noted above will be evaluated as "meets", "approaches" or "does not meet." 
 
-10% Content
-30% Technical
-30% Process
-30% Design
+10% Content\
+30% Technical\
+30% Process\
+30% Design 
+
+## Submission
+Submit this exercise on blackboard. Include the following:
+- [ ] URL to live site
+- [ ] URL to Miro board
